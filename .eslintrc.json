@@ -22,6 +22,7 @@
   },
   "rules": {
     "no-shadow": "off",
+    "no-param-reassign": "off",
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error", { "variables": false }],
     "react-hooks/rules-of-hooks": "error", // Checks rules of Hooks
