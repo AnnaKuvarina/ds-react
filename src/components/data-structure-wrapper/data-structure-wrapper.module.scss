@@ -1,0 +1,16 @@
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  padding: 15px 0 0;
+  margin: 5px auto 30px;
+  font-weight: 400;
+}
+
+canvas {
+  height: 70vh;
+  box-shadow: 0 0 12px rgba(82, 82, 82, 0.25);
+}
